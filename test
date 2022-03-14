@@ -1,9 +1,0 @@
-NMAP
-
-```
-cat -- -notes.txt (reads file that starts with a dash)
-cd -- '-notes.d' (moves to directory that starts with a dash)
-grep --color exampleword (colors exampleword in the output)
-gpg --cipher-algo AES-256 --symmetric encryptiontext
-```
-
